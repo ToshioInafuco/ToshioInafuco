@@ -1,7 +1,7 @@
 ### Olá! Eu sou Roberto Inafuco 👋
 
 - 🔭 Cursando Engenharia Eletrônica na UTFPR
-- 🌱 Estudando JavaScript
+- 🌱 Estudando JavaScript e react
 - 📫 Fale comigo por email: toshioin07@gmail.com
 - <a href="https://www.linkedin.com/in/roberto-inafuco-3333b71a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
