@@ -1,9 +1,8 @@
 ### Olá! Eu sou Roberto Inafuco 👋
 
 - 🔭 Graduating Electronic Engineering UTFPR
-- 🌱 Learning React Native
 - 💻 Ruby on Rails Backend Developer
-- 📫 email: toshioin07@gmail.com
+- 📫 email: inafucoRoberto@gmail.com
 - <a href="https://www.linkedin.com/in/roberto-inafuco-3333b71a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 - <a href="https://www.instagram.com/roberto.in/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
